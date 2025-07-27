@@ -76,7 +76,7 @@ To run API tests:
 Open the project in your Java IDE (e.g., IntelliJ IDEA).
 rest-assured  is used as the test framework
 
-Run the TestNG test suite for API tests located in Class ApiTest.
+Run the TestNG test suite for API tests located in corFounctions Folder Class ApiTest.
 
 UI Automation Tests
 UI tests are automated using Selenium WebDriver with WebDriverManager.
@@ -89,7 +89,7 @@ To run UI tests:
 
 Open the project in your Java IDE.
 
-Run the TestNG test suite located in Class TestCase.
+Run the TestNG test suite located in execution Folder Class TestCase.
 
 
 
